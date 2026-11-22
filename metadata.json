@@ -1,0 +1,6 @@
+{
+  "name": "Warung Nurbaiti",
+  "description": "Aplikasi pemesanan bahan makanan dapur Warung Nurbaiti dengan slogan Semua Ada Semua Bisa, form pesanan praktis, pembayaran QRIS atau COD, dan notifikasi pesanan masuk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

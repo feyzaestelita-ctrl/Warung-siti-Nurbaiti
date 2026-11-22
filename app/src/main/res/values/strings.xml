@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Warung Nurbaiti</string>
+    <string name="app_slogan">Semua Ada Semua Bisa</string>
+    <string name="nav_order">Pesan</string>
+    <string name="nav_payment">Pembayaran</string>
+    <string name="nav_orders">Pesanan</string>
+    <string name="form_title">Form Pesanan Dapur</string>
+    <string name="form_subtitle">Isi data pemesan dan tuliskan bahan makanan dapur yang Anda butuhkan</string>
+    <string name="label_customer_name">Nama Pemesan</string>
+    <string name="hint_customer_name">Masukkan nama lengkap Anda</string>
+    <string name="label_whatsapp">Nomor WhatsApp</string>
+    <string name="hint_whatsapp">Contoh: 081234567890</string>
+    <string name="label_ingredients">Bahan yang Dipesan</string>
+    <string name="hint_ingredients">Tuliskan bahan makanan dapur yang dipesan beserta jumlahnya...\nContoh: Beras 5 kg, Minyak goreng 2 liter, Telur 1 kg, Bawang merah 1/2 kg</string>
+    <string name="label_notes">Catatan Tambahan (Opsional)</string>
+    <string name="hint_notes">Contoh: Tolong pilih yang segar, antar sebelum jam 10 pagi</string>
+    <string name="label_payment_method">Metode Pembayaran</string>
+    <string name="payment_qris">QRIS</string>
+    <string name="payment_qris_desc">Scan kode QRIS Warung Nurbaiti</string>
+    <string name="payment_cod">COD (Bayar di Tempat)</string>
+    <string name="payment_cod_desc">Bayar tunai saat pesanan tiba</string>
+    <string name="btn_submit_order">Kirim Pesanan</string>
+    <string name="error_name_required">Nama pemesan wajib diisi</string>
+    <string name="error_whatsapp_required">Nomor WhatsApp wajib diisi</string>
+    <string name="error_whatsapp_invalid">Masukkan nomor WhatsApp yang valid (minimal 9 digit)</string>
+    <string name="error_ingredients_required">Tuliskan bahan makanan dapur yang ingin dipesan</string>
+    <string name="error_payment_unavailable">Metode pembayaran belum tersedia</string>
+    <string name="payment_screen_title">Pembayaran</string>
+    <string name="payment_screen_subtitle">QRIS &amp; COD Warung Nurbaiti</string>
+    <string name="owner_qris_section_title">Kelola Pembayaran Owner</string>
+    <string name="owner_qris_section_subtitle">Tambahkan atau ubah gambar QRIS Anda dan atur opsi pembayaran</string>
+    <string name="orders_screen_title">Pesanan Masuk</string>
+    <string name="orders_screen_subtitle">Notifikasi &amp; daftar pesanan pelanggan</string>
+    <string name="notification_channel_name">Notifikasi Pesanan Masuk</string>
+    <string name="notification_channel_desc">Notifikasi langsung saat pelanggan mengirim pesanan bahan dapur baru</string>
+</resources>
